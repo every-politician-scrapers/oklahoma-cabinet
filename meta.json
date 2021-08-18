@@ -1,20 +1,24 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Oklahoma",
+      "id": "Q1649"
+    },
+    "country": {
+      "name": "United States of America",
+      "id": "Q30"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q108133126",
+      "start": "2019-01-14",
+      "parent": "Q7082236"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.governor.ok.gov/about/cabinet-members",
+        "title": "Cabinet Secretaries | Welcome to Governor Stitt",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/oklahoma-cabinet"
 }
