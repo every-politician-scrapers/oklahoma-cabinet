@@ -7,17 +7,26 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(
+        full: text_nodes.first.text.tidy,
+        prefixes: %w[Lieutenant Governor General],
+      ).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      text_nodes.last.text.tidy
+    end
+
+    private
+
+    def text_nodes
+      noko.css('.card-body').xpath('.//text()')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.cards .card')
     end
   end
 end
