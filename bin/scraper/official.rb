@@ -8,13 +8,13 @@ class MemberList
   class Member
     def name
       Name.new(
-        full: text_nodes.first.text.tidy,
+        full: noko.css('p').text,
         prefixes: %w[Lieutenant Governor General],
       ).short
     end
 
     def position
-      text_nodes.last.text.tidy
+      noko.css('h2').text
     end
 
     private
@@ -26,7 +26,7 @@ class MemberList
 
   class Members
     def member_container
-      noko.css('.cards .card')
+      noko.css('.card .cmp-card__heading')
     end
   end
 end
