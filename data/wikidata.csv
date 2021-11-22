@@ -1,16 +1,16 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q108133289,Tricia Everest,Tricia Everest,female,,,,,Q108133291,Oklahoma Secretary of Public Safety,Q108133289-CF042E74-2AF5-4DE0-84F7-6A2B3AA4F40A
-Q108133300,Tim Gatz,Tim Gatz,male,,,,,Q7082317,Oklahoma Secretary of Transportation,Q108133300-4B593DCD-4CFF-4064-BB9E-E1E98FFE2DDB
-Q108133312,Scott Mueller,Scott Mueller,male,,,,,Q108133313,Oklahoma Secretary of Commerce and Workforce Development,Q108133312-36A1B101-8C1B-4AC9-B053-77C6929DA257
-Q108133314,Ryan Walters,Ryan Walters,male,,,,,Q7082305,Oklahoma Secretary of Education,Q108133314-F5CBBFFB-6D07-4DEA-852D-7287E93B7D54
+Q108133289,TRICIA EVEREST,Tricia Everest,female,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q108133291,SECRETARY OF PUBLIC SAFETY,Q108133289-CF042E74-2AF5-4DE0-84F7-6A2B3AA4F40A
+Q108133300,TIM GATZ,Tim Gatz,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082317,SECRETARY OF TRANSPORTATION,Q108133300-4B593DCD-4CFF-4064-BB9E-E1E98FFE2DDB
+Q108133312,SCOTT MUELLER,Scott Mueller,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q108133313,SECRETARY OF COMMERCE AND WORKFORCE DEVELOPMENT,Q108133312-36A1B101-8C1B-4AC9-B053-77C6929DA257
+Q108133314,RYAN WALTERS,Ryan Walters,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082305,SECRETARY OF EDUCATION,Q108133314-F5CBBFFB-6D07-4DEA-852D-7287E93B7D54
 Q108133318,Kevin Corbett,Kevin Corbett,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q16148033,Secretary of Health and Mental Health,Q108133318-5DC4D073-87BE-4BFB-9738-3A03916EDD56
 Q108133319,Kenneth Wagner,Kenneth Wagner,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082307,Secretary of Energy and Environment,Q108133319-0546C4D0-4A3D-4879-8FA9-ED1755F9A8C1
-Q108133321,Justin Brown,Justin Brown,male,,,,,Q7082312,Oklahoma Secretary of Human Services,Q108133321-2062A3F0-8705-46F6-8853-4EEDB9C64DB8
-Q108133323,Jennifer Grigsby,Jennifer Grigsby,female,,,,,Q108133324,Secretary of Economic Administration,Q108133323-D33FF904-B464-4D55-A9CB-93A84831101E
-Q108133327,Elizabeth Pollard,Elizabeth Pollard,female,,,,,Q108133328,Secretary of Science and Innovation,Q108133327-3A2788CE-416D-4952-A192-1ADBAE113B7F
-Q108133335,Blayne Arthur,Blayne Arthur,female,,,,,Q7082303,Oklahoma Secretary of Agriculture,Q108133335-186A4B99-67F6-4E5D-931E-1A8510004A3D
+Q108133321,JUSTIN BROWN,Justin Brown,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082312,SECRETARY OF HUMAN SERVICES,Q108133321-2062A3F0-8705-46F6-8853-4EEDB9C64DB8
+Q108133323,JENNIFER GRIGSBY,Jennifer Grigsby,female,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q108133324,SECRETARY OF ECONOMIC ADMINISTRATION,Q108133323-D33FF904-B464-4D55-A9CB-93A84831101E
+Q108133327,ELIZABETH POLLARD,Elizabeth Pollard,female,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q108133328,SECRETARY OF SCIENCE AND INNOVATION,Q108133327-3A2788CE-416D-4952-A192-1ADBAE113B7F
+Q108133335,BLAYNE ARTHUR,Blayne Arthur,female,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082303,SECRETARY OF AGRICULTURE,Q108133335-186A4B99-67F6-4E5D-931E-1A8510004A3D
 Q108133336,Ben T. Robinson,Ben T. Robinson,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082316,Secretary of Veterans Affairs and Military,Q108133336-3E797330-113E-47C7-85AE-81D5354BA14E
 Q108133353,Steven Harpe,Steven Harpe,male,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q108133355,Chief Operating Officer and Deputy Secretary of Digital Transformation and Administration,Q108133353-BDB2DC21-B3B0-4575-9523-C0EAB781A038
 Q4963111,Brian Bingman,Brian Bingman,male,1953-12-09,11,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082315,Secretary of State and Native American Affairs,Q4963111-CB06AA60-FB88-4512-9E93-54919FA6847C
 Q58333631,Matt Pinnell,Matt Pinnell,male,1971-10-19,11,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q7082304,"Secretary of Tourism, Wildlife and Heritage",Q58333631-BA4589D2-F787-41D9-B867-4F2F7CB0564B
-Q7648547,Susan Winchester,Susan Winchester,female,,,,,Q108133199,Oklahoma Secretary of Licensing and Regulation,Q7648547-E6460DA9-25B9-40D9-954E-E0E3D582B74B
+Q7648547,SUSAN WINCHESTER,Susan Winchester,female,,,https://oklahoma.gov/governor/about/governors-cabinet.html,2021-11-21,Q108133199,SECRETARY OF LICENSING AND REGULATION,Q7648547-E6460DA9-25B9-40D9-954E-E0E3D582B74B
