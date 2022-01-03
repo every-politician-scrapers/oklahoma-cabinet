@@ -1,0 +1,189 @@
+{
+  "title": "Myles Deering",
+  "pageID": 29697697,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "United States Army generals",
+    "National Guard of the United States generals",
+    "Recipients of the Legion of Merit",
+    "State cabinet secretaries of Oklahoma",
+    "United States Army personnel of the Iraq War",
+    "Military leaders of the Iraq War",
+    "University of Oklahoma alumni",
+    "Oklahoma State University alumni",
+    "Recipients of the Meritorious Service Medal (United States)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Myles Lynn Deering (born 1953) is a retired Army National Guard major general who served as the adjutant general of Oklahoma.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Army National Guard"
+                },
+                {
+                  "text": "major general",
+                  "type": "internal",
+                  "page": "Major General (United States)"
+                },
+                {
+                  "text": "adjutant general of Oklahoma",
+                  "type": "internal",
+                  "page": "adjutant general of Oklahoma"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Myles Lynn Deering"
+                ]
+              }
+            },
+            {
+              "text": "General Deering was appointed by Governor of Oklahoma Brad Henry in 2009 following the promotion of Harry M. Wyatt III to the position of director, Air National Guard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Oklahoma"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brad Henry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harry M. Wyatt III"
+                }
+              ]
+            },
+            {
+              "text": "On December 10, 2010, Governor-elect Mary Fallin announced that she would retain General Deering in his position as adjutant general.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mary Fallin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As adjutant general, General Deering is the highest-ranking member of the Oklahoma National Guard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oklahoma National Guard"
+                }
+              ]
+            },
+            {
+              "text": "He is responsible for managing the affairs of the Oklahoma Military Department and for advising the governor, who is the Commander-in-Chief of the Guard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oklahoma Military Department"
+                }
+              ]
+            },
+            {
+              "text": "Additionally, Governor Henry and Governor Fallin both appointed General Deering to serve as the Secretary of the Military in the governor's cabinet.",
+              "links": [
+                {
+                  "text": "Secretary of the Military",
+                  "type": "internal",
+                  "page": "Oklahoma State Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "United States general (born 1953)",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1953",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "Adjutant General, State of Oklahoma",
+            "Oklahoma National Guard",
+            "45th Infantry Brigade"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Myles Lynn Deering"
+          },
+          "birth_date": {
+            "text": "1953 (age 69)"
+          },
+          "placeofburial_label": {
+            "text": "Place of burial"
+          },
+          "image": {
+            "text": "Myles L. Deering.jpg"
+          },
+          "caption": {
+            "text": "Deering, before 2012"
+          },
+          "allegiance": {
+            "text": "United States"
+          },
+          "branch": {
+            "text": "Army National Guard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Army National Guard"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1971–2015"
+          },
+          "rank": {
+            "text": "US-O8 insignia.svg Major general",
+            "links": [
+              {
+                "text": "Major general",
+                "type": "internal",
+                "page": "Major general (United States)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Adjutant General, State of Oklahoma\n\nOklahoma National Guard\n\n45th Infantry Brigade"
+          },
+          "awards": {
+            "text": "Legion of Merit\nBronze Star",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legion of Merit"
+              },
+              {
+                "type": "internal",
+                "page": "Bronze Star"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

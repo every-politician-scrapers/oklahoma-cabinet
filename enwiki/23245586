@@ -1,0 +1,112 @@
+{
+  "title": "Susan Winchester",
+  "pageID": 23245586,
+  "categories": [
+    "Living people",
+    "Members of the Oklahoma House of Representatives",
+    "Oklahoma Republicans",
+    "University of Oklahoma alumni",
+    "Businesspeople from Oklahoma",
+    "Women state legislators in Oklahoma",
+    "Year of birth missing (living people)",
+    "21st-century American politicians",
+    "21st-century American women politicians",
+    "People from Chickasha, Oklahoma"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Winchester was elected to the Oklahoma House of Representatives to represent District 47 in 1998 where she served until 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oklahoma House of Representatives"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susan Winchester"
+                ]
+              }
+            },
+            {
+              "text": "She was elected Whip for the Republican Caucus after her first term, and in 2005 became the first woman to serve as Speaker Pro Tempore, the second highest position in the House."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Representative"
+          },
+          "name": {
+            "text": "Susan Winchester"
+          },
+          "image": {
+            "text": "[[File:Susan Winchester.jpg]]"
+          },
+          "state_house": {
+            "text": "Oklahoma"
+          },
+          "district": {
+            "text": "47th"
+          },
+          "term_start": {
+            "text": "1998",
+            "number": 1998
+          },
+          "term_end": {
+            "text": "2008",
+            "number": 2008
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Chickasha, Oklahoma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chickasha, Oklahoma"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "James R. Winchester",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James R. Winchester"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Oklahoma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Oklahoma"
+              }
+            ]
+          },
+          "profession": {
+            "text": "educator, business woman"
+          }
+        }
+      ]
+    }
+  ]
+}
