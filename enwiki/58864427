@@ -1,0 +1,207 @@
+{
+  "title": "Matt Pinnell",
+  "pageID": 58864427,
+  "categories": [
+    "1979 births",
+    "Lieutenant Governors of Oklahoma",
+    "Living people",
+    "21st-century American politicians",
+    "Oklahoma Republican Party chairs",
+    "Oral Roberts University alumni",
+    "Politicians from Enid, Oklahoma",
+    "Political campaign staff"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Matt Pinnell (born August 15, 1979) is an American politician serving as the 17th lieutenant governor of Oklahoma, since 2019.",
+              "links": [
+                {
+                  "text": "lieutenant governor of Oklahoma",
+                  "type": "internal",
+                  "page": "Lieutenant Governor of Oklahoma"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Matt Pinnell"
+                ]
+              }
+            },
+            {
+              "text": "Pinnell is also serving as the first Oklahoma Secretary of Tourism & Branding.",
+              "links": [
+                {
+                  "text": "Oklahoma Secretary of Tourism & Branding",
+                  "type": "internal",
+                  "page": "Oklahoma Governor's Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "American politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2018",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1979",
+          "month": "08",
+          "day": "15",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Matt Pinnell"
+          },
+          "image": {
+            "text": "Lieutenant Governor of Oklahoma Matt Pinnell.jpg"
+          },
+          "office": {
+            "text": "17th Lieutenant Governor of Oklahoma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant Governor of Oklahoma"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Kevin Stitt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kevin Stitt"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 14, 2019"
+          },
+          "predecessor": {
+            "text": "Todd Lamb",
+            "links": [
+              {
+                "text": "Todd Lamb",
+                "type": "internal",
+                "page": "Todd Lamb (politician)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "1st Oklahoma Secretary of Tourism and Branding",
+            "links": [
+              {
+                "text": "Oklahoma Secretary of Tourism and Branding",
+                "type": "internal",
+                "page": "Oklahoma Secretary of Commerce and Tourism"
+              }
+            ]
+          },
+          "governor1": {
+            "text": "Kevin Stitt"
+          },
+          "term_start1": {
+            "text": "January 18, 2019"
+          },
+          "predecessor1": {
+            "text": "Position established"
+          },
+          "office2": {
+            "text": "Chair of the Oklahoma Republican Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oklahoma Republican Party"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 26, 2010"
+          },
+          "term_end2": {
+            "text": "April 20, 2013"
+          },
+          "predecessor2": {
+            "text": "Gary Jones",
+            "links": [
+              {
+                "text": "Gary Jones",
+                "type": "internal",
+                "page": "Gary Jones (Oklahoma politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Dave Weston"
+          },
+          "birth_date": {
+            "text": "August 15, 1979"
+          },
+          "birth_place": {
+            "text": "Dallas, Texas, U.S.",
+            "links": [
+              {
+                "text": "Dallas, Texas",
+                "type": "internal",
+                "page": "Dallas"
+              },
+              {
+                "text": "U.S.",
+                "type": "internal",
+                "page": "United States"
+              }
+            ]
+          },
+          "party": {
+            "text": "Republican",
+            "links": [
+              {
+                "text": "Republican",
+                "type": "internal",
+                "page": "Republican Party (United States)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lisa Pinnell"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "education": {
+            "text": "Oral Roberts University (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oral Roberts University"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          },
+          "website": {
+            "text": "Government website"
+          }
+        }
+      ]
+    }
+  ]
+}
