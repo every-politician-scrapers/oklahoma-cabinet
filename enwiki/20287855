@@ -81,6 +81,10 @@
       ],
       "templates": [
         {
+          "description": "American politician",
+          "template": "short description"
+        },
+        {
           "year": "1953",
           "month": "12",
           "day": "9",
