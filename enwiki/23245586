@@ -40,6 +40,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "description": "American politician",
+          "template": "short description"
+        }
+      ],
       "infoboxes": [
         {
           "honorific-prefix": {
