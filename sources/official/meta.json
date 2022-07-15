@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+      "name": "Oklahoma",
+      "id": "Q1649"
+    },
+    "country": {
+      "name": "United States of America",
+      "id": "Q30"
+    },
+    "cabinet": {
+      "id": "Q108133126",
+      "start": "2019-01-14",
+      "parent": "Q7082236"
+    },
+    "source": {
+        "url":   "https://oklahoma.gov/governor/about/governors-cabinet.html",
+        "title": "Governor&#39;s Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/oklahoma-cabinet"
+}
