@@ -4,7 +4,7 @@
 require 'every_politician_scraper/comparison'
 
 # Process the data from each source before comparison
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def wikidata_csv_options
     { converters: [->(val) { val.to_s.upcase.gsub(/^OKLAHOMA /, '') }] }
   end
